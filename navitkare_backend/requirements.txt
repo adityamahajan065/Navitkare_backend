@@ -1,16 +1,16 @@
-Django and REST Framework
-django
-djangorestframework
-djangorestframework-simplejwt
+# Web Application & API
+django==4.2.7
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
 
-Image Processing and OCR
-opencv-python
-pytesseract
-numpy
+# Image Processing and OCR
+opencv-python==4.8.1.78
+pytesseract==0.3.10
+numpy==1.26.1
 
-AI/ML Model
-tensorflow
+# AI/ML Model
+tensorflow==2.14.0
 
-Recommended for PostgreSQL connection (optional, if you switch from SQLite)
-psycopg2-binary
-gunicorn
+# Database & Server
+psycopg2-binary==2.9.9
+gunicorn==21.2.0
