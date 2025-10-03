@@ -9,8 +9,9 @@ pytesseract==0.3.10
 numpy==2.0.0
 
 # AI/ML Model
-tensorflow==2.16.1
+tensorflow
 
 # Database & Server
 psycopg2-binary==2.9.9
 gunicorn==22.0.0
+
