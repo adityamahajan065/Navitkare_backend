@@ -1,8 +1,0 @@
-# Ignore IDE files
-.spyproject/
-
-# Ignore Python cache
-__pycache__/
-
-# Ignore local database if you have one
-db.sqlite3
